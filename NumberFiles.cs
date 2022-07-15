@@ -4,6 +4,5 @@
     {
         FileFirst,
         FileSecond,
-        Nothing
     }
 }
